@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosya-project",
+  "private_key_id": "91e7c34fdc81280031b0a9325309e6c9f511caa8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy8eG/LPZpSY+W\nA7GeeFbUvxipRdes1ysBbUsTz8tOWjDibb0ODSiCBrrgyhYSdENJWdTxeAub0McT\nP5rU9VANEyoTx9xa/PTzTVc+6wHJHoJq2fXkhPnYOYPIXTWIrUIISQ7ZOR2mA9Ho\nX/4TE578pqUNg8Q8It0MTcE9qW46L+zKfk5gfIF9dXjJAbVaMqInVzPH7fNIQijZ\nKj70iMdnBz1DRDtyoDjTI/EpeSjEdg8WCdvFf/qVqVjqnTHC8V4faz+OM11KjGA7\n/Phley+2axxbL934E8VCz0h73Fa4ZssaKECwVDZihL8DZoX3Hss3THKSYlAB3LYj\n2WLeC3mDAgMBAAECggEADK+FF25ykYg7e6ELaHaTgUWC1A01evVOAS3kUqU6fnV6\nXbL14hcgtgcQHHt3ERvY4UxTAkNGX2dvlXe+3DX/1M11AC38+x5PpyfmdXlniQB2\nsmh9PBQJOkDpjLy+3M+bjMbRHKkl5u0CZnzXoDaV4MdXkBu1P6YhEYw5lMt8GvfI\nZ9RXCYjVLfSklu0O0uT37x1EEDtfRIwYyD5gCiN9RQ1TgzzOPNIRe4FkZ1wnCdS+\nKqd1cKo4muf4bTyp0PrALVlajveRD2dN3tzczdfRQGPF9TJYH05lnXWSHM8hrntc\ngzwieI/+A85t57G0jc3jXt/uGFYXCubAG1tQJVPxMQKBgQDhw+LBazcG2BKC9wmV\nJnZo1Snn3MNZVV9ryFwOOetuQpSubZUsmduyTumlC9qqXH5vKqf9Z38ICM980W9/\n+p9vENJtRCGeoL1/i3eu/7aEQW1X8hI64c/olnWi3wBPJlmPgIZAbhoJiKNcGtDp\nAs0DWed6/cnzIQTc5cTW703OfwKBgQDK6M/ZVdDYfrcf8PSc9CjyrT+GdrayMp4e\nk3ENxDprS8HDJlWaRfYZjMZ6zM9m0uAm1yAuzt6axFx8fIVbg4XGfz/krOn10jt3\njB0NvTwRmmdSaHAbHdcm2OqyYBHIAUxvJFeFPAfH6reGf0CiKTE00Bk0Zb+9QC34\npO5VdRKa/QKBgCCi8qrHVwMURUjNcYMwNjndZttv3IWTg+HO6w/ba59a3KeCi+gQ\nrePO6JPFbOznxhdH8VT+myyMKYJ/vECh+F5T7jeBe+K0lfBUNw8DRF1GIApwohYF\nAss6xPKwjhjjEFtgVwgFYpoyOHteHQkyMHTlkEMFYSZWhZ9xT81KdtL9AoGAN3hF\nuehX25dogHbiqDWnLBBomV3CvBxSVZGBCn5magafxbWpGS+fA4UUjWWIHVfwpy2Q\nQruS50Re9DkmS8o8u/L1iJIss2LxltDa8HKXBUjsjf63BvK1ao1KO9E/iymvt4J7\n2pR6nBByc3Y+ORaBuSpaeZSHQjlVV+/ep8YFfBECgYEAoIOsgKPKUTOMTHq/Tb8x\neUHPClwgL4OBRRuVtkMerXN8hXEYaNRN895CjrpgYGmZNMLpLFp2vkfzBa/Wd1SN\nscQpdlv0/1/YZtLrY84U0Mb5inT/xZlt597Dup5JcDb0u+TEJt1d8BjzMMEKROqn\nLj2vKI32PKn73MANUZn8hCA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rosya-576@rosya-project.iam.gserviceaccount.com",
+  "client_id": "111921556353150672231",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rosya-576%40rosya-project.iam.gserviceaccount.com"
+}
